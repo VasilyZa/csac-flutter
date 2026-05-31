@@ -44,3 +44,6 @@ app.*.map.json
 
 # Android key properties (contains signing secrets)
 android/key.properties
+
+# Backend source (not for public repo)
+后端core/
